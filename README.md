@@ -105,11 +105,3 @@ skills = {
 ```
 
 ---
-
-**To set up the anime avatar properly**, you have two options:
-
-1. **Use the auto-generated one** — the `dicebear` link above generates a unique anime avatar from your name automatically, no upload needed ✅
-
-2. **Use your own anime pic** — if you have a specific anime image you want, upload it to your repo as `anime.png` and replace the img src with:
-```
-   https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/anime.png
