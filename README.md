@@ -1,111 +1,159 @@
 <div align="center">
 
-<img src="behelit.gif" width="150"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=120&section=header)
+
+<img src="behelit.gif" width="160"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Mohammed+Khamees)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=50&pause=1500&color=B22222&center=true&vCenter=true&width=700&lines=Mohammed+Khamees)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=CC2200&center=true&vCenter=true&width=700&lines=Quality+Control+Analyst+%40+RER+(PIF);Turning+messy+data+into+clean+truth+🗡️;SQL+%7C+Python+%7C+Compliance+%7C+Legal+Tech;Berserk+fan+by+night%2C+analyst+by+day+😅)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Analyst+by+day.+Ashen+One+by+night.;I+query+databases+the+way+Guts+swings+his+sword.;You+Died.+%E2%80%94+The+dataset+did%2C+not+me.;SQL+%7C+Python+%7C+Berserk+%7C+Souls+%7C+GoT)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedkhamees)
-[![Email](https://img.shields.io/badge/Email-4a0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:M.khamess2001@yahoo.com)
-![Location](https://img.shields.io/badge/Riyadh,_SA-2a0000?style=for-the-badge&logo=googlemaps&logoColor=CC2200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/mohammedkhamees)
+[![Email](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:M.khamess2001@yahoo.com)
+![Riyadh](https://img.shields.io/badge/Riyadh,_SA-3D0000?style=for-the-badge&logo=googlemaps&logoColor=FF4500)
 
 </div>
 
 ---
 
-## 👋 Hey there!
+```bash
+$ ./summon_character.sh
+```
 
-I'm **Mohammed** — a Quality Control Analyst at **RER (a PIF Company)** who genuinely enjoys digging through data to find what's wrong and fixing it. Think of me as the guy who checks if the numbers add up... and they better. ⚔️
+```
+███╗   ███╗   ██████╗   ██╗  ██╗   █████╗   ███╗   ███╗  ███╗   ███╗  ███████╗  ██████╗ 
+████╗ ████║  ██╔═══██╗  ██║  ██║  ██╔══██╗  ████╗ ████║  ████╗ ████║  ██╔════╝  ██╔══██╗
+██╔████╔██║  ██║   ██║  ███████║  ███████║  ██╔████╔██║  ██╔████╔██║  █████╗    ██║  ██║
+██║╚██╔╝██║  ██║   ██║  ██╔══██║  ██╔══██║  ██║╚██╔╝██║  ██║╚██╔╝██║  ██╔══╝    ██║  ██║
+██║ ╚═╝ ██║  ╚██████╔╝  ██║  ██║  ██║  ██║  ██║ ╚═╝ ██║  ██║ ╚═╝ ██║  ███████╗  ██████╔╝
+╚═╝     ╚═╝   ╚═════╝   ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝     ╚═╝  ╚═╝     ╚═╝  ╚══════╝  ╚═════╝ 
 
-My background blends **law + data + compliance**, which is a weird combo — but it works surprisingly well when you need someone who understands both regulations *and* how to query a database.
-
-> *「 In the kingdom of data, the one who finds the error is king. 」*
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Data & Databases
-![SQL](https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4a0000?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Programming
-![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-4a0000?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Tools
-![Excel](https://img.shields.io/badge/Excel-8B0000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-4a0000?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-2a0000?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-</div>
+> Name   :  Mohammed Khamees
+> Class  :  Quality Control Analyst  ⚔️
+> Origin :  Riyadh, Saudi Arabia
+> Mark   :  Brand of Sacrifice  🔴
+> Status :  Still standing. Always will be.
+```
 
 ---
 
-## 💼 What I Actually Do
+```bash
+$ cat ./stack.config
+```
 
-```python
-mohammed = {
-    "current_role"  : "Quality Control Analyst @ RER (PIF)",
-    "daily_grind"   : ["Writing SQL queries", "Catching data inconsistencies",
-                       "Submitting non-conformity reports", "Keeping SLAs happy"],
-    "secret_weapon" : "Law degree that makes compliance make sense",
-    "fun_fact"      : "I've read Berserk more times than some people read textbooks 📖"
+```json
+{
+  "languages"  : ["SQL", "Python"],
+  "libraries"  : ["Pandas"],
+  "tools"      : ["Excel", "Word", "PowerPoint"],
+  "domain"     : ["Data Analysis", "Compliance", "Quality Control", "Legal Research"]
 }
 ```
 
 ---
 
-## 📋 Experience
+```bash
+$ cat ./grimoire.json
+```
 
-**🔍 Quality Control Analyst — RER (PIF Company)** `May 2024 – Present`
-> Evaluating datasets, catching what doesn't belong, and making sure the first registration process runs clean. SQL is my daily companion.
+```json
+{
+  "employer"     : "RER — PIF Company, Riyadh",
 
-**⚖️ Trainee Lawyer — Ministry of Justice** `Aug 2023 – Aug 2024`
-> Drafted conciliation documents and attended sessions. Learned that precision in language = precision in data.
+  "the_grind"    : "Hunt data anomalies. Write SQL. Submit reports. Repeat.",
 
-**📋 Legal Intern — Nomay Al-Shareef Law Firm** `Dec 2022 – Feb 2023`
-> Legal memos, judicial sessions, and a whole lot of reading between the lines.
+  "after_hours"  : {
+
+    "souls_games"  : {
+      "status"     : "Veteran. No summons. No cheese.",
+      "favorites"  : ["Elden Ring", "Dark Souls III", "Bloodborne"],
+      "deaths"     : "Uncountable. Each one a lesson.",
+      "playstyle"  : "Pure melee. Greatsword. Very on-brand."
+    },
+
+    "berserk"      : "The Behelit above speaks for itself.",
+    "watching"     : "Game of Thrones — because power is always interesting.",
+    "reading"      : ["Philosophy", "Political Theory", "History — empires rise and fall"],
+    "manga"        : "Berserk — Miura was a genius. Rest easy."
+  },
+
+  "beliefs"      : [
+    "Machiavelli wrote the best compliance manual in history",
+    "Every empire that fell — failed at data governance",
+    "Souls games and SQL have the same lesson: patience + precision = victory",
+    "The Behelit doesn't choose randomly"
+  ],
+
+  "current_state": "⚔️  Between a quarterly report and a NG+ run"
+}
+```
 
 ---
 
-## 🎓 Education
+```bash
+$ git log --oneline --graph ./saga
+```
 
-**Bachelor of Laws (LLB)** — University of Jeddah `2019 – 2023`
-
-🏅 GPA **4.8 / 5.0** — First Honors *(yes, I'm that guy)*
-
----
-
-## 📜 Certifications & Wins
-
-| 🏆 | Certification | Issuer | Year |
-|----|--------------|--------|------|
-| ⚔️ | SASL – Saudi Accreditation Standards for Legal Practitioners | Saudi Bar Association | 2024 |
-| 📈 | McKinsey Forward Program | McKinsey & Company | 2023 |
-| 📊 | Project Management Industry Training | Brainnest | 2023 |
-| 📰 | Published Scientific Article | Falak for Space Science & Research | 2023 |
+```
+* d4f91c2  (HEAD → present)  ⚔️  Quality Control Analyst @ RER (PIF)       [May 2024 –    ]
+* b3e80a1                    ⚖️  Trainee Lawyer @ Ministry of Justice        [Aug 2023 – Aug 2024]
+* a1c72f0                    📋  Legal Intern @ Nomay Al-Shareef Law Firm    [Dec 2022 – Feb 2023]
+* 9e10d3f  (origin)          🎓  LLB @ University of Jeddah  ·  GPA 4.8/5 🏅 [Aug 2019 – Mar 2023]
+```
 
 ---
 
-## 🌐 Languages
+```bash
+$ ls -la ./seals_of_power/
+```
 
-- 🇸🇦 **Arabic** — Native
-- 🇬🇧 **English** — Fluent *(IELTS 6.0)*
+```
+drwxr-xr-x  SASL_Saudi_Accreditation_Legal_Practitioners.cert    [Saudi Bar Assoc.  · 2024]
+drwxr-xr-x  McKinsey_Forward_Program.cert                        [McKinsey & Co.    · 2023]
+drwxr-xr-x  Project_Management_Training.cert                     [Brainnest         · 2023]
+drwxr-xr-x  Published_Scientific_Article.pdf                     [Falak Research    · 2023]
+```
+
+---
+
+```bash
+$ cat ./proficiency_levels.txt
+```
+
+```
+  Arabic  ████████████████████  Native
+ English  ████████████████░░░░  Fluent       IELTS 6.0
+     SQL  █████████████████░░░  Advanced
+  Python  ████████████░░░░░░░░  Intermediate
+   Souls  ████████████████████  No life lost  ⚔️
+```
+
+---
+
+```bash
+$ echo $BRAND
+```
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Even if we painstakingly piece together something         ║
+║    lost, it doesn't mean things will ever go back            ║
+║    to how they were."  — Kentaro Miura, Berserk              ║
+║                                                              ║
+║   Keep swinging anyway.  ⚔️                                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
 <div align="center">
 
-*Currently reading: Berserk. Currently querying: everything else.* 😄
-
-![](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer&text=「+Where+Law+Meets+Data+」&fontColor=ffffff&fontSize=20&fontAlignY=65)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=130&section=footer&text=「+You+Died.+The+data+didn't.+」&fontColor=FFD700&fontSize=18&fontAlignY=65)
 
 </div>
