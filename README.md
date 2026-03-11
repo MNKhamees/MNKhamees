@@ -1,107 +1,111 @@
 <div align="center">
 
-<img src="https://api.dicebear.com/7.x/anime/svg?seed=Mohammed&backgroundColor=0d1117&hair=short01&face=variant01" width="150" style="border-radius: 50%;" />
+<img src="behelit.gif" width="150"/>
 
-# Mohammed Khamees
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Quality+Control+Analyst;Data+%26+Compliance+Engineer;SQL+%7C+Python+%7C+Legal+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Mohammed+Khamees)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedkhamees)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:M.khamess2001@yahoo.com)
-![Location](https://img.shields.io/badge/Riyadh,_Saudi_Arabia-00D4FF?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=CC2200&center=true&vCenter=true&width=700&lines=Quality+Control+Analyst+%40+RER+(PIF);Turning+messy+data+into+clean+truth+🗡️;SQL+%7C+Python+%7C+Compliance+%7C+Legal+Tech;Berserk+fan+by+night%2C+analyst+by+day+😅)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedkhamees)
+[![Email](https://img.shields.io/badge/Email-4a0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:M.khamess2001@yahoo.com)
+![Location](https://img.shields.io/badge/Riyadh,_SA-2a0000?style=for-the-badge&logo=googlemaps&logoColor=CC2200)
 
 </div>
 
 ---
 
-## `> whoami`
-```bash
-$ cat about.txt
+## 👋 Hey there!
 
-Name     : Mohammed Khamees
-Role     : Quality Control Analyst @ RER (PIF Company)
-Focus    : Data Analysis · Compliance · Legal Tech
-Status   : Building systems that make accuracy non-negotiable ⚡
-```
+I'm **Mohammed** — a Quality Control Analyst at **RER (a PIF Company)** who genuinely enjoys digging through data to find what's wrong and fixing it. Think of me as the guy who checks if the numbers add up... and they better. ⚔️
+
+My background blends **law + data + compliance**, which is a weird combo — but it works surprisingly well when you need someone who understands both regulations *and* how to query a database.
+
+> *「 In the kingdom of data, the one who finds the error is king. 」*
 
 ---
 
-## `> tech_stack.sh`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🗄️ Data & Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Data & Databases
+![SQL](https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4a0000?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Programming
+![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4a0000?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🛠️ Tools & Productivity
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+### Tools
+![Excel](https://img.shields.io/badge/Excel-8B0000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-4a0000?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-2a0000?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 </div>
 
 ---
 
-## `> core_competencies[]`
+## 💼 What I Actually Do
+
 ```python
-skills = {
-    "data"       : ["SQL Querying", "Dataset Evaluation", "Non-conformity Reporting"],
-    "compliance" : ["Quality Verification", "Regulatory Analysis", "SLA Management"],
-    "legal_tech" : ["Legal Research", "Document Drafting", "Governance"],
-    "soft"       : ["Problem Solving", "Analytical Thinking", "Attention to Detail"]
+mohammed = {
+    "current_role"  : "Quality Control Analyst @ RER (PIF)",
+    "daily_grind"   : ["Writing SQL queries", "Catching data inconsistencies",
+                       "Submitting non-conformity reports", "Keeping SLAs happy"],
+    "secret_weapon" : "Law degree that makes compliance make sense",
+    "fun_fact"      : "I've read Berserk more times than some people read textbooks 📖"
 }
 ```
 
 ---
 
-## `> experience.log`
-```
-[2024-05 → NOW]   Quality Control Analyst    @ RER (PIF Company)
-                  ↳ SQL-based data evaluation & non-conformity reporting
-                  ↳ Regulatory compliance verification
+## 📋 Experience
 
-[2023-08 → 2024-08] Trainee Lawyer           @ Ministry of Justice
-                  ↳ Conciliation documentation & sessions
+**🔍 Quality Control Analyst — RER (PIF Company)** `May 2024 – Present`
+> Evaluating datasets, catching what doesn't belong, and making sure the first registration process runs clean. SQL is my daily companion.
 
-[2022-12 → 2023-02] Legal Intern (COOP)      @ Nomay Al-Shareef Law Firm
-                  ↳ Legal memos & judicial sessions
-```
+**⚖️ Trainee Lawyer — Ministry of Justice** `Aug 2023 – Aug 2024`
+> Drafted conciliation documents and attended sessions. Learned that precision in language = precision in data.
+
+**📋 Legal Intern — Nomay Al-Shareef Law Firm** `Dec 2022 – Feb 2023`
+> Legal memos, judicial sessions, and a whole lot of reading between the lines.
 
 ---
 
-## `> education.json`
-```json
-{
-  "degree"     : "Bachelor of Laws (LLB)",
-  "university" : "University of Jeddah",
-  "period"     : "2019 – 2023",
-  "GPA"        : "4.8 / 5.0",
-  "honor"      : "🏅 First Honors"
-}
-```
+## 🎓 Education
+
+**Bachelor of Laws (LLB)** — University of Jeddah `2019 – 2023`
+
+🏅 GPA **4.8 / 5.0** — First Honors *(yes, I'm that guy)*
 
 ---
 
-## `> certifications.list`
+## 📜 Certifications & Wins
 
-- 🏛️ **SASL** — Saudi Accreditation Standards for Legal Practitioners · *Saudi Bar Association* `2024`
-- 📈 **McKinsey Forward Program** · *McKinsey & Company* `2023`
-- 📊 **Project Management Industry Training** · *Brainnest* `2023`
+| 🏆 | Certification | Issuer | Year |
+|----|--------------|--------|------|
+| ⚔️ | SASL – Saudi Accreditation Standards for Legal Practitioners | Saudi Bar Association | 2024 |
+| 📈 | McKinsey Forward Program | McKinsey & Company | 2023 |
+| 📊 | Project Management Industry Training | Brainnest | 2023 |
+| 📰 | Published Scientific Article | Falak for Space Science & Research | 2023 |
+
+---
+
+## 🌐 Languages
+
+- 🇸🇦 **Arabic** — Native
+- 🇬🇧 **English** — Fluent *(IELTS 6.0)*
 
 ---
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer)
+*Currently reading: Berserk. Currently querying: everything else.* 😄
 
-*`// where law meets data`*
+![](https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer&text=「+Where+Law+Meets+Data+」&fontColor=ffffff&fontSize=20&fontAlignY=65)
 
 </div>
-```
-
----
