@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=120&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header)
 
 <img src="behelit.gif" width="160"/>
 
@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=50&pause=1500&color=B22222&center=true&vCenter=true&width=700&lines=Mohammed+Khamees)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF4500&center=true&vCenter=true&width=800&lines=Analyst+by+day.+Ashen+One+by+night.;I+query+databases+the+way+Guts+swings+his+sword.;You+Died.+%E2%80%94+The+dataset+did%2C+not+me.;SQL+%7C+Python+%7C+Berserk+%7C+Souls+%7C+GoT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=B22222&center=true&vCenter=true&width=800&lines=Analyst+by+day.+Ashen+One+by+night.;I+query+databases+the+way+Guts+swings+his+sword.;You+Died.+%E2%80%94+The+dataset+did%2C+not+me.;Proud+nerd+%26+geek+%F0%9F%A4%93+%C2%B7+First+Honors+Graduate+%F0%9F%8F%85;SQL+%7C+Python+%7C+Berserk+%7C+Souls+%7C+GoT)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,6 +36,8 @@ $ ./summon_character.sh
 > Class  :  Quality Control Analyst  ⚔️
 > Origin :  Riyadh, Saudi Arabia
 > Mark   :  Brand of Sacrifice  🔴
+> Rank   :  First Honors Graduate  🏅  GPA 4.8/5.0
+> Type   :  Certified Nerd & Geek  🤓
 > Status :  Still standing. Always will be.
 ```
 
@@ -88,6 +90,8 @@ $ cat ./grimoire.json
     "The Behelit doesn't choose randomly"
   ],
 
+  "identity"     : "Nerd. Geek. Proud of both. 🤓",
+  "achievement"  : "First Honors LLB — GPA 4.8/5.0 — not by luck, by obsession 🏅",
   "current_state": "⚔️  Between a quarterly report and a NG+ run"
 }
 ```
@@ -154,6 +158,6 @@ $ echo $BRAND
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=130&section=footer&text=「+You+Died.+The+data+didn't.+」&fontColor=FFD700&fontSize=18&fontAlignY=65)
+![](https://capsule-render.vercel.app/api?type=waving&color=B22222&height=130&section=footer&text=「+You+Died.+The+data+didn't.+」&fontColor=FFD700&fontSize=18&fontAlignY=65)
 
 </div>
