@@ -2,7 +2,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header)
 
-<img src="behelit.gif" width="160"/>
+
 
 <br/>
 
