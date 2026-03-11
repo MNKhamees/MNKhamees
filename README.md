@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="behelit.gif" width="120"/>
 
 <br/><br/>
 
